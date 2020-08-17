@@ -1,4 +1,4 @@
-# Complete React Material UI Table - Paging, Sorting and Filtering
+# React Material UI Table - Dialog/ Modal Popup
 
 These is the demo project used to explaining Material UI Dialog/ Modal Popup
 
