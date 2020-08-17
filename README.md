@@ -1,25 +1,23 @@
 # Complete React Material UI Table - Paging, Sorting and Filtering
 
-These is the demo project used to explaining Material UI table with paging sorting and filtering.
-- Show array of records in mui table.
-- Implement Paging Sorting and Filtering
+These is the demo project used to explaining Material UI Dialog/ Modal Popup
 
 Complete videos in this series of React Materil UI : https://bit.ly/3k2tUSD
 
 ## Get the Code
 
 ```
-$ git clone https://github.com/CodAffection/React-Material-UI-Table-Paging-Sorting-and-Filtering..git
+$ git clone https://github.com/CodAffection/https://github.com/CodAffection/React-Material-UI-Dialog-Modal-Popup.git
 ```
 
  ## How it works ?
 
  :tv: Video tutorial on this same topic  
- Url : https://bit.ly/3fPcxBe
+ Url : https://youtu.be/5akdtwtmjZM
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=jnQ1-XW7KNY
-" target="_blank"><img src="http://img.youtube.com/vi/jnQ1-XW7KNY/0.jpg" 
-alt="Video Tutorial for Material UI Table with Paging, Sorting and Filtering" width="500" height="400" border="10" /></a>
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=5akdtwtmjZM
+" target="_blank"><img src="http://img.youtube.com/vi/5akdtwtmjZM/0.jpg" 
+alt="Video Tutorial for Material UI Dialog/ Modal Popup" width="500" height="400" border="10" /></a>
 
 
 | :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
